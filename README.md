@@ -145,5 +145,5 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 For questions or suggestions, please reach out to the development team:  
 - **Endekalu Zemenu** - Backend Developer  
-- **Email:** endekaluzemenu2134@example.com  
+- **Email:** endekaluzemenu2134@gmail.com  
 - **GitHub:** [KALU-c](https://github.com/KALU-c)  
